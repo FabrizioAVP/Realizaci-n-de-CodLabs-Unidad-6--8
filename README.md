@@ -8,23 +8,32 @@ Facultad de Ingeniería de Sistemas e Informática
 E.A.P. Ingeniería de Sistemas
   
 Sistemas Móviles
+
 Realización de CodLabs Unidad 6 -8
+
 Docente: 
+
 MAMANI RODRIGUEZ, ZORAIDA EMPERATRIZ
+
 Alumno: 
+
 VALER PÉREZ FABRIZIO ALEXIS
  
 2023
 
 Unidad 6
+
 Ruta de Aprendizaje 1: INTRODUCCIÓN A SQL
 https://github.com/FabrizioAVP/SQLDemo
 
 Ruta de Aprendizaje 2: Cómo usar Room para la persistencia de datos
+
 ·	Cómo lograr con Room la persistencia de datos
 https://github.com/FabrizioAVP/Inventory
+
 ·	Cómo leer y actualizar datos con Room
 https://github.com/FabrizioAVP/ActualizarDatosConRoom
+
 ·	Práctica: Cómo compilar la app de Bus Schedule
 https://github.com/FabrizioAVP/BusSchedule
  
