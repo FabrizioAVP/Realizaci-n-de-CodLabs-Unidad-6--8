@@ -36,24 +36,34 @@ https://github.com/FabrizioAVP/ActualizarDatosConRoom
 
 ·	Práctica: Cómo compilar la app de Bus Schedule
 https://github.com/FabrizioAVP/BusSchedule
+
  
 Unidad 7
+
 Ruta de Aprendizaje: Cómo programar tareas con WorkManager
+
 ·	Trabajo en segundo plano con WorkManager
 https://github.com/FabrizioAVP/Blur-O-Matic
+
 ·	Pruebas y WorkManager avanzados
 https://github.com/FabrizioAVP/WorkManagerAvanzados
+
 ·	Práctica: Compila la app de Water Me
 https://github.com/FabrizioAVP/WaterMe
+
  
 Unidad 8
+
 Ruta de Aprendizaje 1: Views de Android y Compose en View
+
 ·	Cómo compilar una app para Android con Views
 https://github.com/FabrizioAVP/JuiceTracker
+
 ·	Cómo agregar compose a una app heredad
 https://github.com/FabrizioAVP/JuiceTrackerCompose
- 
+
 Ruta de Aprendizaje 2: Views en Compose 
+
 ·	Cómo usar la interoperabilidad con objetos View en Compose
 https://github.com/FabrizioAVP/JuiceTrackerViews
 
